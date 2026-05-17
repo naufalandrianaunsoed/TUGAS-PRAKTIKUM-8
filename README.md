@@ -83,7 +83,7 @@ Gerbang NAND adalah gerbang yang menghasilkan kebalikan dari gerbang AND. Gerban
 |    1    |    0    |     1     |
 |    1    |    1    |     0     |
 
-! [NAND Gate](nand.png)
+![NAND Gate](nand.png)
 
 ---
 
@@ -100,7 +100,7 @@ Gerbang NOR adalah gerbang logika yang menghasilkan kebalikan dari gerbang OR. S
 |    1    |    0    |     0     |
 |    1    |    1    |     0     |
 
-! [NOR Gate](nor.png)
+![NOR Gate](nor.png)
 
 ---
 
@@ -117,6 +117,6 @@ Gerbang XNOR adalah kebalikan dari gerbang XOR. **Output akan bernilai 1 (HIGH) 
 |    1    |    0    |     0     |
 |    1    |    1    |     1     |
 
-! [XNOR Gate](xnor.png)
+![XNOR Gate](xnor.png)
 
 ---
