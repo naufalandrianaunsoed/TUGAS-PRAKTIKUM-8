@@ -69,3 +69,48 @@ Gerbang NOT adalah gerbang logika paling sederhana karena hanya memiliki **satu 
 ![NOT Gate](not.png)
 
 ---
+
+## 5. NAND
+
+Gerbang NAND adalah gerbang yang menghasilkan kebalikan dari gerbang AND. Gerbang ini akan menghasilkan output 0 (LOW) hanya **jika semua inputnya bernilai 1 (HIGH)**. Jika ada salah satu saja input yang bernilai 0, maka outputnya justru akan bernilai 1.
+
+## Tabel Kebenaran NAND
+
+| Input A | Input B | Output AB |
+| :-----: | :-----: | :--------:|
+|    0    |    0    |     1     |
+|    0    |    1    |     1     |
+|    1    |    0    |     1     |
+|    1    |    1    |     0     |
+
+! [NAND Gate](nand.png)
+
+## 6. NOR
+
+Gerbang NOR adalah gerbang logika yang menghasilkan kebalikan dari gerbang OR. Secara sederhana, gerbang NOR akan menghasilkan output 1 (HIGH) **hanya jika semua inputnya bernilai 0 (LOW)**. Jika ada satu saja input yang bernilai 1, maka outputnya akan langsung menjadi 0.
+
+## Tabel Kebenaran NOR
+
+| Input A | Input B | Output AB |
+| :-----: | :-----: | :--------:|
+|    0    |    0    |     1     |
+|    0    |    1    |     0     |
+|    1    |    0    |     0     |
+|    1    |    1    |     0     |
+
+! [NOR Gate](nor.png)
+
+## 7. XNOR
+
+Gerbang XNOR adalah kebalikan dari gerbang XOR. **Output akan bernilai 1 (HIGH) hanya jika kedua inputnya bernilai SAMA** (sama-sama 0 atau sama-sama 1). Jika inputnya berbeda, outputnya akan menjadi 0 (LOW).
+
+## Tabel Kebenaran XNOR
+
+| Input A | Input B | Output AB |
+| :-----: | :-----: | :--------:|
+|    0    |    0    |     1     |
+|    0    |    1    |     0     |
+|    1    |    0    |     0     |
+|    1    |    1    |     1     |
+
+! [XNOR Gate](xnor.png)
