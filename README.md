@@ -1,6 +1,6 @@
 # TUGAS PRAKTIKUM PERTEMUAN 8
 
-NAMA : - MUHAMMAD NAUFAL ANDRIANA PUTRA (H1H025065) - ILHAM CANIAGO (H1H025072) - RASHEED JIBRIL KURNIAWAN (H1H025XXX)
+NAMA : - MUHAMMAD NAUFAL ANDRIANA PUTRA (H1H025065) - ILHAM CANIAGO (H1H025072) - RASHEED DJIBRIL KURNIAWAN (H1H025055)
 
 ---
 
@@ -85,6 +85,8 @@ Gerbang NAND adalah gerbang yang menghasilkan kebalikan dari gerbang AND. Gerban
 
 ! [NAND Gate](nand.png)
 
+---
+
 ## 6. NOR
 
 Gerbang NOR adalah gerbang logika yang menghasilkan kebalikan dari gerbang OR. Secara sederhana, gerbang NOR akan menghasilkan output 1 (HIGH) **hanya jika semua inputnya bernilai 0 (LOW)**. Jika ada satu saja input yang bernilai 1, maka outputnya akan langsung menjadi 0.
@@ -100,6 +102,8 @@ Gerbang NOR adalah gerbang logika yang menghasilkan kebalikan dari gerbang OR. S
 
 ! [NOR Gate](nor.png)
 
+---
+
 ## 7. XNOR
 
 Gerbang XNOR adalah kebalikan dari gerbang XOR. **Output akan bernilai 1 (HIGH) hanya jika kedua inputnya bernilai SAMA** (sama-sama 0 atau sama-sama 1). Jika inputnya berbeda, outputnya akan menjadi 0 (LOW).
@@ -114,3 +118,5 @@ Gerbang XNOR adalah kebalikan dari gerbang XOR. **Output akan bernilai 1 (HIGH) 
 |    1    |    1    |     1     |
 
 ! [XNOR Gate](xnor.png)
+
+---
