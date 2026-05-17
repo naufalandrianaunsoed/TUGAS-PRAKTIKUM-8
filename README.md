@@ -66,6 +66,6 @@ Gerbang NOT adalah gerbang logika paling sederhana karena hanya memiliki **satu 
 |    0    |       1        |
 |    1    |       0        |
 
-![NOT Gate](NOT.png)
+![NOT Gate](not.png)
 
 ---
